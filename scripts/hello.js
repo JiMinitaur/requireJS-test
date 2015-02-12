@@ -1,4 +1,6 @@
 
 define(function() {
-	alert('hello world')
+	return {
+		dialog:function(){alert('hello world')}
+	}
 });

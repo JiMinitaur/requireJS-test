@@ -1,4 +1,4 @@
 
 define(function(require) {
-	require('hello');
+	require('hello').dialog();
 });
