@@ -1,2 +1,4 @@
 
-alert('hello');
+require(['hello'], function(hello) {
+	
+});
