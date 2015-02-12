@@ -1,4 +1,4 @@
 
-require(['hello'], function(hello) {
-	
+define(function(require) {
+	require('hello');
 });
